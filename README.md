@@ -51,6 +51,8 @@ git checkout charlas
 
 en esta branch, editamos README.md de nuevp
 
+### Esta es la edición dentro de la branch charlas
+
 ```
 vi README.md
 ...
