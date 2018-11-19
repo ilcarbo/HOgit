@@ -35,6 +35,8 @@ git add README.md
 git commit
 ```
 
+### Esta es la primer edición del README
+
 Ya hay un nuevo snapshot. Ahora creamos una branch
 
 ```
